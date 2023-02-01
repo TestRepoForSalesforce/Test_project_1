@@ -1,3 +1,4 @@
 public class TestClass1 {
-abc;
+ abc;
+ Integer xyz;
 }
